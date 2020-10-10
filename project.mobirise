@@ -44,7 +44,14 @@
     "uniqCompNum": 14,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-09-24-at-08.37.14-128x256.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
